@@ -1,0 +1,1 @@
+import{p as s,c as o,a as e,o as r}from"./BnBj2Zqp.js";import{_ as n}from"./DlAUqK2U.js";const c=s("/1.jpg"),a={};function l(i,t){return r(),o("div",null,t[0]||(t[0]=[e("h1",null,"testx",-1),e("img",{src:c,alt:"",width:"300"},null,-1)]))}const m=n(a,[["render",l]]);export{m as default};

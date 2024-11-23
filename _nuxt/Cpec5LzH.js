@@ -1,0 +1,1 @@
+import{G as l}from"./BnBj2Zqp.js";const r=()=>{const n=l([]),t=l(!1),s=l(null);return{results:n,loading:t,errors:s,call:(u,a={method:"GET"})=>(t.value=!0,fetch(u,a).then(e=>e.json()).then(e=>(n.value=e,e)).catch(e=>{throw e.value=e,e}).finally(()=>{t.value=!1}))}};export{r as u};
