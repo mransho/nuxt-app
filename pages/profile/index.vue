@@ -129,14 +129,16 @@
       </div>
     </section>
 
-    <section
-      class="Move text-center bg-orange-500 gap-x-5 gap-y-5 items-center py-10 md:px-16 flex justify-between flex-col lg:flex-row"
-    >
-      <div class="text-white font-bold text-3xl md:text-4xl lg:text-5xl">
-        Move even faster with Tailwind UI.
-      </div>
-      <div class="bg-white w-fit px-5 py-2 flex items-center rounded-xl">
-        <a href="" class="text-orange-500"> Start Here </a>
+    <section class="Move bg-orange-500">
+      <div
+        class="mx-auto container px-6 text-center gap-x-5 gap-y-5 items-center py-10 md:px-16 flex justify-between flex-col lg:flex-row"
+      >
+        <div class="text-white font-bold text-3xl md:text-4xl lg:text-5xl">
+          Move even faster with Tailwind UI.
+        </div>
+        <div class="bg-white w-fit px-5 py-2 flex items-center rounded-xl">
+          <a href="" class="text-orange-500"> Start Here </a>
+        </div>
       </div>
     </section>
 
